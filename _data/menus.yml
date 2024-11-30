@@ -1,23 +1,8 @@
 # Top Menu
 topmenu:
 
-- title: 中国VPN推荐
+- title: VPN推薦
   url: ""
-
-- title: 翻墙软件
-  url: "gfw/"
-
-- title: 便宜VPN
-  url: "cheap-vpn/"
-
-- title: 免费VPN
-  url: "free-vpn/"
-
-- title: 电脑VPN
-  url: "pc-vpn/"
-
-- title: 安卓VPN
-  url: "android-vpn/"
 
 # Footer Menu
 footermenu:
