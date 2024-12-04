@@ -10,6 +10,9 @@ topmenu:
 - title: 台灣VPN
   url: "tw-vpn"
 
+- title: 香港VPN
+  url: "hk-vpn"
+
 - title: 日本VPN
   url: "ja-vpn"
 
