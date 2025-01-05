@@ -12,7 +12,7 @@ image: https://howandbest.com/wp-content/uploads/2024/06/turkey-vpn.jpg
 
 ## 土耳其VPN推薦，如何使用VPN取得土耳其IP位址？
 
-### 1. [Surfshark](https://howandbest.com/go/surfshark)
+### 1.[Surfshark](https://howandbest.com/go/surfshark)
 
 ![Surfshark](https://howandbest.com/wp-content/uploads/2024/06/surfshark-homepage.jpg)
 
@@ -24,7 +24,7 @@ image: https://howandbest.com/wp-content/uploads/2024/06/turkey-vpn.jpg
 
 4. **強大的隱私保護**：Surfshark提供嚴格的無日誌政策，並且支援多種加密協議，能夠有效保護用戶的線上隱私。此外，它還具有“偽裝模式”，可以隱藏VPN的使用。
 
-### 2. [NordVPN](https://howandbest.com/go/nordvpn)
+### 2.[NordVPN](https://howandbest.com/go/nordvpn)
 
 ![NordVPN](https://howandbest.com/wp-content/uploads/2024/07/nordvpn-homepage-windows.jpg)
 
@@ -36,7 +36,7 @@ image: https://howandbest.com/wp-content/uploads/2024/06/turkey-vpn.jpg
 
 4. **多種附加功能**：NordVPN提供一些額外功能，如CyberSec（防廣告和惡意網站）、Tor over VPN（將Tor網路和VPN結合使用）等，進一步增強了使用者的安全體驗。
 
-### 3. [PureVPN](https://howandbest.com/go/purevpn)
+### 3.[PureVPN](https://howandbest.com/go/purevpn)
 
 ![PureVPN](https://howandbest.com/wp-content/uploads/2024/06/purevpn-homepage.jpg)
 
