@@ -1,14 +1,17 @@
 # Top Menu
 topmenu:
 
-- title: 人氣VPN推薦
+- title: 翻墙VPN
   url: ""
 
-- title: 大陸VPN
-  url: "china-vpn"
+- title: 电脑VPN
+  url: "pc-vpn"
 
-- title: 台灣VPN
-  url: "tw-vpn"
+- title: 安卓VPN
+  url: "android-vpn"
+
+- title: 苹果VPN
+  url: "ios-vpn"
 
 - title: 香港VPN
   url: "hk-vpn"
@@ -16,7 +19,7 @@ topmenu:
 - title: 日本VPN
   url: "ja-vpn"
 
-- title: 免費VPN
+- title: 免费VPN
   url: "free-vpn"
 
 # Footer Menu
