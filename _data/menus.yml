@@ -13,11 +13,8 @@ topmenu:
 - title: 苹果VPN
   url: "ios-vpn"
 
-- title: 香港VPN
-  url: "hk-vpn"
-
-- title: 日本VPN
-  url: "ja-vpn"
+- title: 便宜VPN
+  url: "cheap-vpn"
 
 - title: 免费VPN
   url: "free-vpn"
