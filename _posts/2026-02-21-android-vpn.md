@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2025年最好用的安卓VPN推荐，中国安卓手机平板翻墙"
+title:  "2026年最好用的安卓VPN推荐，中国安卓手机平板翻墙"
 author: sal
 image: https://howandbest.com/wp-content/uploads/2025/12/android-vpn-simple.jpg
 ---

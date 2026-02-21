@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "2025年Chrome翻墙指南，Chrome扩展插件翻墙VPN推荐"
+title:  "2026年Chrome翻墙指南，Chrome扩展插件翻墙VPN推荐"
 author: sal
 image: https://howandbest.com/wp-content/uploads/2025/12/chrome-vpn.jpg
 ---
