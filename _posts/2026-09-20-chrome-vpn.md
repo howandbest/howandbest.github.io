@@ -42,7 +42,7 @@ image: https://howandbest.com/wp-content/uploads/2025/12/chrome-vpn.jpg
 
 ### 1.[Starfirewall](https://starfirewall.com/) - Chrome 和桌面应用共用连接，少折腾扩展
 
-![Starfirewall Windows 客户端界面参考](https://overwallvpn.com/wp-content/uploads/2026/10/starfirewall-windows.jpg)
+![Starfirewall 官网](https://overwallvpn.com/wp-content/uploads/2026/10/starfirewall-homepage.jpg)
 
 如果你主要用 Chrome 查资料、开海外网站，Starfirewall 值得放在前面考虑。它采用客户端加订阅的方式，电脑设置好连接后，Chrome 可以按系统代理设置使用，不需要把日常访问全押在一个浏览器插件上。换成 Edge 或其他浏览器时，也可以继续用这份服务。
 
