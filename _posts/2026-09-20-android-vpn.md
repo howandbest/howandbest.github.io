@@ -21,7 +21,7 @@ image: https://howandbest.com/wp-content/uploads/2025/12/android-vpn-simple.jpg
 
 如果主要在安卓手机或平板上使用，目前有几款对 Android 支持比较完善的 VPN 可以考虑。这些安卓VPN都有独立客户端，安装和连接比较简单，同时提供分流、协议切换等常用功能。
 
-> 1.[Starfirewall](https://starfirewall.com/): 手机、平板可使用同一份订阅，最多 5 台设备同时在线；搭配支持分应用代理的客户端，方便安排国内外 App 的连接。
+> 1.[Starfirewall](https://starfirewall.com/): 手机、平板可使用同一份订阅，最多 5 台设备同时在线；搭配支持分应用代理的客户端，方便安排国内外 App 的连接。 长期使用优先考虑年付 329 元，按年一次支付，折合每月约 27 元。
 
 > 2.[StrongVPN](https://howandbest.com/go/strongvpn): 比较适合看重连接稳定性的用户，同时最多可以连接 12 台设备。对于中国用户来说，它还支持支付宝付款，购买起来比较方便。
 
@@ -52,9 +52,9 @@ image: https://howandbest.com/wp-content/uploads/2025/12/android-vpn-simple.jpg
 
 安卓端的使用方式是把订阅导入兼容客户端。对我来说，这种方式最值得用好的功能是应用分流：选择支持该功能的客户端后，可以让需要海外连接的 App 走代理，其他应用继续直连。比起为了开一个网页就反复切换整个手机的网络，这样更顺手。
 
-套餐有月付和年付，长期使用的年付为 329 元，折合每月约 27 元。国产安卓手机还建议顺手检查一下客户端的后台运行权限，尤其是锁屏后容易断开的设备。先把后台保活设置好，才能判断日常连接到底是否适合自己。
+如果安卓手机每天都要用，我会优先选**年付 329 元，按年一次支付，折合每月约 27 元**。把手机和平板一整年的连接预算安排好，比按月续费更划算。国产安卓手机还建议顺手检查一下客户端的后台运行权限，尤其是锁屏后容易断开的设备。先把后台保活设置好，才能判断日常连接到底是否适合自己。
 
-[查看 Starfirewall 套餐与使用说明](https://starfirewall.com/)
+[查看 Starfirewall 年付套餐](https://starfirewall.com/)
 
 ### 2.[StrongVPN](https://howandbest.com/go/strongvpn) - 老牌、低调，但在中国依旧“能打”
 

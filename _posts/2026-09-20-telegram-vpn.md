@@ -43,9 +43,9 @@ image: https://howandbest.com/wp-content/uploads/2025/12/telegram-vpn.jpg
 
 它通过兼容客户端导入订阅，适合希望自己安排应用分流的人。比如选择支持分应用设置的客户端后，让 Telegram 和需要的海外应用经过代理，其他应用按自己的需求直连，就不用为了聊天频繁开关整个设备的连接。
 
-年付套餐目前是 329 元，折合每月约 27 元，另有 89 元月付。Telegram 的文字聊天、语音和文件传输对网络要求不同，我建议把自己最常用的功能分别试一下。若浏览器正常而 Telegram 一直转圈，也先看应用是否走对了代理；这类设置问题，单纯换节点往往解决不了。
+如果 Telegram 是日常接收消息、阅读频道和查资料的工具，我会更推荐**年付 329 元，按年一次支付，折合每月约 27 元**。长期需要连接的话，年订阅比每月续费更容易控制支出。Telegram 的文字聊天、语音和文件传输对网络要求不同，我建议把自己最常用的功能分别试一下。若浏览器正常而 Telegram 一直转圈，也先看应用是否走对了代理；这类设置问题，单纯换节点往往解决不了。
 
-[查看 Starfirewall 套餐与使用说明](https://starfirewall.com/)
+[查看 Starfirewall 年付套餐](https://starfirewall.com/)
 
 ### 2.[StrongVPN](https://howandbest.com/go/strongvpn) - 低调但“抗封”历史悠久的老牌选手
 
